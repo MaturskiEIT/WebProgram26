@@ -1,0 +1,25 @@
+﻿.velicina1
+{
+    width: 200px;
+    height: 200px;
+}
+.velicina2
+{
+    width: 100px;
+    height: 100px;
+}
+.centar
+{
+    text-align: center;
+}
+.desno
+{
+    text-align: right;
+}
+.naslov
+{
+    font-size: x-large;
+    color: #FF0000;
+    font-weight: bold;
+    text-align: center;
+}
